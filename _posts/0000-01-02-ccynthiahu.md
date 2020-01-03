@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-"Learning github step by step"
+"Learning github **hands-on** and *step by step*"
